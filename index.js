@@ -1,7 +1,7 @@
 let link = "https://giant-breezy-duck.glitch.me/book.json";
 let bookData = [];
 let currentPage = 1;
-const itemsPerPage = 1;
+const itemsPerPage = 12;
 
 
 fetch(link)
